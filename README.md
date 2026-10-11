@@ -1,6 +1,6 @@
-# Network Intrusion Detection System (Suricata)
+# CodeAlpha Cyber Security Internship Task 4.
 
-CodeAlpha Cyber Security Internship, Task 4.
+## Network Intrusion Detection System (Suricata)
 
 A network IDS built on Suricata with custom detection rules and an automated
 response script that blocks attackers using nftables.
